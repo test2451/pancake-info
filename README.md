@@ -1,15 +1,15 @@
-# Pancake History
+Pancake History
 
 Check it out live: [https://pancakeswap.info/](https://pancakeswap.info/).
 
-### To Start Development
+To Start Development
 
-###### Installing dependencies
+Installing dependencies
 ```bash
 yarn
 ```
 
-###### Running locally
+Running locally
 ```bash
 yarn start
 ```
